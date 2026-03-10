@@ -8,6 +8,27 @@ The goal was to clean the dataset, perform analysis, and build interactive dashb
 
 ---
 
+## Dataset Description
+
+The dataset used in this project is the AdventureWorks sales dataset.  
+It consists of 8 tables including fact and dimension tables.
+
+Fact Tables:
+- Sales Table 1
+- Sales Table New
+
+Dimension Tables:
+- Product
+- Product Subcategory
+- Product Category
+- Customer
+- Sales Territory
+- Date
+
+These tables were combined and cleaned before performing analysis.
+
+--
+
 ## Tools Used
 
 - Excel
@@ -16,6 +37,25 @@ The goal was to clean the dataset, perform analysis, and build interactive dashb
 - Tableau
 
 ---
+
+## Project Workflow
+
+1. Data Cleaning  
+Cleaned raw dataset and removed inconsistencies.
+
+2. Data Transformation  
+Merged fact tables and joined product category, subcategory, and product tables.
+
+3. Data Analysis  
+Performed exploratory data analysis using Excel and SQL.
+
+4. Dashboard Development  
+Created interactive dashboards in Excel, Power BI, and Tableau.
+
+5. Insights Generation  
+Analyzed sales trends, product performance, and regional sales distribution.
+
+--
 
 ## KPIs Used
 
@@ -44,12 +84,16 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 
 ---
 
-## Key Insights
+## Dashboard Preview
 
-- Q4 generated the highest sales.
-- Mountain bike products were top-performing.
-- Sales increased significantly in 2013.
-- Some regions contributed more revenue than others.
+### Excel Dashboard
+![Excel Dashboard](images/excel-dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi-dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](images/tableau-dashboard.png)
 
 ---
 
@@ -61,3 +105,12 @@ Example queries performed:
 - Top 10 products by revenue
 - Regional sales analysis
 - Monthly sales trend
+
+---
+
+## Key Insights
+
+- Q4 generated the highest sales.
+- Mountain bike products were top-performing.
+- Sales increased significantly in 2013.
+- Some regions contributed more revenue than others.
