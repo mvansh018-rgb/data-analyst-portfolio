@@ -1,4 +1,4 @@
-<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/0d08f823-0d7f-482a-b968-7b7f22451767" />## Project Overview
+## Project Overview
 
 This project analyzes the AdventureWorks sales dataset to identify trends in product performance, regional sales distribution, and overall revenue growth.
 
@@ -89,7 +89,7 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 
 
 ### Power BI Dashboard
-![Power BI Dashboard][Uploading PowerBI-dashboard.png…]()
+![Power BI Dashboard]<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/0d08f823-0d7f-482a-b968-7b7f22451767" />
 
 
 ### Tableau Dashboard
