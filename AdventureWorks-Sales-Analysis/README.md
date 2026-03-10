@@ -1,4 +1,4 @@
-# AdventureWorks Sales Analysis
+<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/7b51ab4f-b57f-4403-bc9a-3eee9e028b01" /><img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/4f97157a-10e4-4e9c-a10d-90f3a29cf302" /># AdventureWorks Sales Analysis
 
 ## Project Overview
 
@@ -91,7 +91,9 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard][Uploading PowerBI-dashboard.png…]()
+
+
 
 ### Tableau Dashboard
 ![Tableau Dashboard](images/tableau-dashboard.png)
