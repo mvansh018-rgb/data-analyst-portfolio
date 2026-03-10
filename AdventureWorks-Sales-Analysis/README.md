@@ -61,7 +61,9 @@ Analyzed sales trends, product performance, and regional sales distribution.
 - Total Orders
 - Total Quantity Sold
 - Total Products Sold
-
+- Total Products
+- Total Profit
+  
 ---
 
 ## Dashboards Created
