@@ -1,4 +1,4 @@
-## Project Overview
+<img width="1172" height="668" alt="powerBi-dashboard" src="https://github.com/user-attachments/assets/a0963287-f554-4dc1-a185-c590c8af17dd" /><img width="1150" height="602" alt="Excel-dashboard" src="https://github.com/user-attachments/assets/6cc9888f-42aa-4b81-bac1-400a2f321c41" />## Project Overview
 
 This project analyzes the AdventureWorks sales dataset to identify trends in product performance, regional sales distribution, and overall revenue growth.
 
@@ -87,12 +87,10 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 ## Dashboard Preview
 
 ### Excel Dashboard
-[Excel Dashboard]<img width="1151" height="615" alt="Excel-dashboard" src="https://github.com/user-attachments/assets/dedd57d7-d780-458f-9deb-589872598851" />
-
+[Excel Dashboard][Uploading Excel-dashboard.png…]()
 
 ### Power BI Dashboard
-[Power BI Dashboard]<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/0d08f823-0d7f-482a-b968-7b7f22451767" />
-
+[Power BI Dashboard][Uploading powerBi-dashboard.png…]()
 
 ### Tableau Dashboard
 [Tableau Dashboard]<img width="1407" height="703" alt="Tableau-dashboard" src="https://github.com/user-attachments/assets/97dcc255-6361-4061-b7e5-43f966f732e8" />
