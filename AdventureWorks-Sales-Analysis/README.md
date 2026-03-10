@@ -85,15 +85,15 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 ## Dashboard Preview
 
 ### Excel Dashboard
-![Excel Dashboard]<img width="1151" height="615" alt="Excel-dashboard" src="https://github.com/user-attachments/assets/dedd57d7-d780-458f-9deb-589872598851" />
+[Excel Dashboard]<img width="1151" height="615" alt="Excel-dashboard" src="https://github.com/user-attachments/assets/dedd57d7-d780-458f-9deb-589872598851" />
 
 
 ### Power BI Dashboard
-![Power BI Dashboard]<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/0d08f823-0d7f-482a-b968-7b7f22451767" />
+[Power BI Dashboard]<img width="1191" height="679" alt="PowerBI-dashboard" src="https://github.com/user-attachments/assets/0d08f823-0d7f-482a-b968-7b7f22451767" />
 
 
 ### Tableau Dashboard
-![Tableau Dashboard<img width="1407" height="703" alt="Tableau-dashboard" src="https://github.com/user-attachments/assets/97dcc255-6361-4061-b7e5-43f966f732e8" />
+[Tableau Dashboard<img width="1407" height="703" alt="Tableau-dashboard" src="https://github.com/user-attachments/assets/97dcc255-6361-4061-b7e5-43f966f732e8" />
 
 ---
 
