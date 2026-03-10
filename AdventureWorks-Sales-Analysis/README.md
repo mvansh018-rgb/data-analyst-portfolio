@@ -87,7 +87,8 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 ## Dashboard Preview
 
 ### Excel Dashboard
-![Excel Dashboard](images/excel-dashboard.png)
+![Excel Dashboard]<img width="1151" height="615" alt="Excel-dashboard" src="https://github.com/user-attachments/assets/dedd57d7-d780-458f-9deb-589872598851" />
+
 
 ### Power BI Dashboard
 ![Power BI Dashboard](images/powerbi-dashboard.png)
