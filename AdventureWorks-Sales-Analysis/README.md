@@ -34,6 +34,16 @@ The goal was to clean the dataset, perform analysis, and build interactive dashb
 
 ---
 
+## Live Dashboards
+
+🔗 Tableau Dashboard  
+https://public.tableau.com/views/AdventureWorksSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+🔗 Power BI Dashboard  
+https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3b9&pbi_source=linkShare
+
+---
+
 ## Key Insights
 
 - Q4 generated the highest sales.
