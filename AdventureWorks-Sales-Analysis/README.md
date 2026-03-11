@@ -63,7 +63,8 @@ Analyzed sales trends, product performance, and regional sales distribution.
 - Total Products
 - Total Profit
 - Total Customers
-- 
+- Avg Order Value
+- Total Production Cost
   
 ---
 
