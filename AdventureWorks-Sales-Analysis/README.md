@@ -59,7 +59,6 @@ Analyzed sales trends, product performance, and regional sales distribution.
 
 - Total Sales
 - Total Orders
-- Total Products Sold
 - Total Products
 - Total Profit
 - Total Customers
