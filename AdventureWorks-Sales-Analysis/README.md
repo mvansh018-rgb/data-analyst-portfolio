@@ -6,6 +6,16 @@ The goal was to clean the dataset, perform analysis, and build interactive dashb
 
 ---
 
+## Problem Statement
+
+The business wants to analyze its sales performance to better understand revenue trends, product demand, and regional sales distribution.
+
+The objective of this analysis is to explore the AdventureWorks sales dataset and identify key insights related to sales performance, product popularity, and customer purchasing patterns.
+
+Through data analysis and visualization, this project aims to help stakeholders make data-driven decisions by identifying trends, high-performing products, and potential areas for business improvement.
+
+---
+
 ## Dataset Description
 
 The dataset used in this project is the AdventureWorks sales dataset.  
