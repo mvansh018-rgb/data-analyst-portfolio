@@ -100,13 +100,40 @@ https://app.powerbi.com/links/5hsfSeKcdD?ctid=6e170c50-17f0-464b-9ac1-8683fb59a3
 
 ## SQL Analysis
 
-Example queries performed:
+SQL was used to extract insights from the AdventureWorks dataset by performing aggregations, joins, and filtering operations.
 
-- Sales by year
-- Top 10 products by revenue
-- Regional sales analysis
-- Monthly sales trend
+1. Total Sales
+   SELECT CONCAT(ROUND(SUM(SalesAmount)/1000000), ' M') AS TotalSales
+   FROM factsales;
 
+2. Total Profit
+   SELECT CONCAT(ROUND(SUM(Profit)/1000000), ' M') AS TotalProfit
+   FROM factsales;
+
+3. Sales by Year
+   SELECT d.CalendarYear,
+   CONCAT(ROUND(SUM(SalesAmount)/1000), ' K') AS TotalSales
+   FROM factsales f
+   JOIN DimDate d
+   ON f.DateKey = d.DateKey
+   GROUP BY d.CalendarYear
+   ORDER BY d.CalendarYear;
+
+4. Top 10 Products by order quantity
+   SELECT ProductKey,EnglishProductName,SUM(OrderQuantity) AS TotalOrders
+   FROM factsales
+   GROUP BY ProductKey, EnglishProductName
+   ORDER BY TotalOrders DESC
+   LIMIT 10;
+
+5. Sales by Region
+   SELECT t.SalesTerritoryRegion, t.SalesTerritoryCountry,
+   CONCAT(ROUND(SUM(SalesAmount)/1000), ' K') AS TotalSales
+   FROM factsales f JOIN dimsalesterritory t
+   ON f.SalesTerritoryKey = t.SalesTerritoryKey
+   GROUP BY t.SalesTerritoryRegion, t.SalesTerritoryCountry
+   ORDER BY TotalSales DESC;
+   
 ---
 
 ## Key Insights
