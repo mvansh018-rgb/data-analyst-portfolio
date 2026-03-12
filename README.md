@@ -36,6 +36,9 @@ Key Analysis:
 - Regional sales comparison
 - Quarterly and yearly performance analysis
 
+## Project link
+[View Full Project](./AdventureWorks-Sales-Analysis)
+
 ---
 
 ## Contact
