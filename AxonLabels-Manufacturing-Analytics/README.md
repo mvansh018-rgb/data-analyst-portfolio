@@ -20,13 +20,11 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 ---
 
 ## 📌 Key Metrics (KPIs)
-- Total Sales  
-- Total Cost  
-- Production Output  
-- Order Quantity  
-- Operational Efficiency  
-- Cost Analysis  
-
+- Total Manufactured Quantity
+- Total Rejeted Quantity
+- Total Produced Quantity
+- Total Wastage %
+  
 ---
 
 ## 🔄 Project Workflow
