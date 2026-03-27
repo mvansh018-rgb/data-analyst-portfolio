@@ -3,23 +3,23 @@ To develop an interactive dashboard to overcome challenges in traditional analyt
 
 ---
 
-## Business Problem
+## 💼 Business Problem
 Traditional reporting at Axon Labels relied heavily on manual Excel processes, leading to delays, errors, and lack of real-time visibility into production, cost, and operational metrics. The business required a centralized dashboard for efficient monitoring and decision-making.
 
 ---
 
-## Dataset
+## 📂 Dataset
 Pre-cleaned manufacturing dataset containing production, sales, cost, and operational performance data.
 
 ---
 
-## Tools Used
+## 🛠 Tools Used
 - Excel  
 - Tableau  
 
 ---
 
-## Key Metrics (KPIs)
+## 📌 Key Metrics (KPIs)
 - Total Sales  
 - Total Cost  
 - Production Output  
@@ -42,7 +42,7 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 - Designed user-friendly visuals for tracking performance and trends  
 
 ### 🔗 Live Dashboard
-- Tableau Dashboard: 
+- Tableau Dashboard: (your link)
 
 ---
 
