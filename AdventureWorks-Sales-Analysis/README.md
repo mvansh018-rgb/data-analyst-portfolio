@@ -65,7 +65,7 @@ Analyzed sales trends, product performance, and regional sales distribution.
 
 --
 
-## KPIs Used
+## Key Metrics(KPI'S)
 
 - Total Sales
 - Total Orders
@@ -77,15 +77,11 @@ Analyzed sales trends, product performance, and regional sales distribution.
   
 ---
 
-## Dashboards Created
+## Dashboards & Visualization
 
 1. Excel Sales Dashboard
 2. Power BI Interactive Dashboard
 3. Tableau Visualization Dashboard
-
----
-
-## Live Dashboards
 
 🔗 Tableau Dashboard  
 https://public.tableau.com/views/AdventureWorksSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
