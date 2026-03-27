@@ -1,4 +1,4 @@
-## Project Overview
+## Objective
 
 This project analyzes the AdventureWorks sales dataset to identify trends in product performance, regional sales distribution, and overall revenue growth.
 
@@ -6,7 +6,7 @@ The goal was to clean the dataset, perform analysis, and build interactive dashb
 
 ---
 
-## Problem Statement
+## Business Problem 
 
 The business wants to analyze its sales performance to better understand revenue trends, product demand, and regional sales distribution.
 
@@ -16,26 +16,10 @@ Through data analysis and visualization, this project aims to help stakeholders 
 
 ---
 
-## Dataset Description
+## 📂 Dataset
+AdventureWorks sales dataset comprising structured data on sales transactions, customers, products, and regional performance.
 
-The dataset used in this project is the AdventureWorks sales dataset.  
-It consists of 8 tables including fact and dimension tables.
-
-Fact Tables:
-- Sales Table 1
-- Sales Table New
-
-Dimension Tables:
-- Product
-- Product Subcategory
-- Product Category
-- Customer
-- Sales Territory
-- Date
-
-These tables were combined and cleaned before performing analysis.
-
---
+---
 
 ## Tools Used
 
@@ -46,27 +30,16 @@ These tables were combined and cleaned before performing analysis.
 
 ---
 
-## Project Workflow
+##  Project Workflow
+- Collected and prepared data using Excel for analysis  
+- Performed data analysis using SQL to extract insights  
+- Built interactive dashboards using Power BI/Tableau  
+- Delivered insights to support data-driven decision-making  
 
-1. Data Cleaning  
-Cleaned raw dataset and removed inconsistencies.
-
-2. Data Transformation  
-Merged fact tables and joined product category, subcategory, and product tables.
-
-3. Data Analysis  
-Performed exploratory data analysis using Excel and SQL.
-
-4. Dashboard Development  
-Created interactive dashboards in Excel, Power BI, and Tableau.
-
-5. Insights Generation  
-Analyzed sales trends, product performance, and regional sales distribution.
-
---
+---
 
 ## Key Metrics(KPI'S)
-
+Key business metrics used to evaluate sales performance and profitability:
 - Total Sales
 - Total Orders
 - Total Products
@@ -78,10 +51,7 @@ Analyzed sales trends, product performance, and regional sales distribution.
 ---
 
 ## Dashboards & Visualization
-
-1. Excel Sales Dashboard
-2. Power BI Interactive Dashboard
-3. Tableau Visualization Dashboard
+- Developed dashboards using Excel, Power BI, and Tableau to analyze sales performance and key metrics.  
 
 🔗 Tableau Dashboard  
 https://public.tableau.com/views/AdventureWorksSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -124,21 +94,6 @@ SQL was used to extract insights from the AdventureWorks dataset by performing a
    ON f.DateKey = d.DateKey
    GROUP BY d.CalendarYear
    ORDER BY d.CalendarYear;
-
-4. Top 10 Products by order quantity-
-   SELECT ProductKey,EnglishProductName,SUM(OrderQuantity) AS TotalOrders
-   FROM factsales
-   GROUP BY ProductKey, EnglishProductName
-   ORDER BY TotalOrders DESC
-   LIMIT 10;
-
-5. Sales by Region-
-   SELECT t.SalesTerritoryRegion, t.SalesTerritoryCountry,
-   CONCAT(ROUND(SUM(SalesAmount)/1000), ' K') AS TotalSales
-   FROM factsales f JOIN dimsalesterritory t
-   ON f.SalesTerritoryKey = t.SalesTerritoryKey
-   GROUP BY t.SalesTerritoryRegion, t.SalesTerritoryCountry
-   ORDER BY TotalSales DESC;
    
 ---
 
