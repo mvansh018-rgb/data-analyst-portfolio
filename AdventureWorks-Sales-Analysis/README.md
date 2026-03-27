@@ -98,7 +98,8 @@ SQL was used to extract insights from the AdventureWorks dataset by performing a
 ---
 
 ## Key Insights
-- Quarter 4 generated the highest sales, indicating strong seasonal demand during the year-end period  
-- Mountain Bikes emerged as the top-performing product category, contributing significantly to overall revenue  
-- Sales showed a notable increase in 2013, reflecting business growth over time  
-- Certain regions contributed a higher share of revenue, highlighting key markets for business focus  
+- Quarter 4 generated the highest sales, indicating strong seasonal demand  
+- Sales showed consistent growth over time, with a noticeable increase in 2013  
+- Mountain Bikes emerged as the top-performing products, contributing significantly to overall revenue  
+- Monthly sales trends revealed fluctuations, highlighting peak and low-performing periods  
+- Product cost and sales trends indicate variations in profitability across time periods  
