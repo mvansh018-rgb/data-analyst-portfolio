@@ -45,11 +45,12 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 ---
 
 ## 📊 Key Insights
-- Manual reporting processes caused delays in accessing critical business insights  
-- Lack of real-time tracking impacted decision-making efficiency  
-- Variations in production and cost trends highlighted areas for optimization  
-- KPI-based dashboards improved visibility into operational performance  
-
+- Total production reached 60M units, with a relatively low wastage rate of 0.82%, indicating efficient manufacturing operations  
+- Department-wise analysis shows consistent manufacturing output, but rejection levels vary across departments  
+- Machine MC027 recorded the highest rejected quantity, highlighting a potential area for process improvement  
+- Employee-level analysis indicates that certain operators contributed more to rejected quantities, suggesting training opportunities  
+- Monthly production trends remained stable throughout the year, with slight fluctuations indicating operational consistency
+  
 ---
 
 ## 💼 Business Impact
