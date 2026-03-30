@@ -1,10 +1,10 @@
 ## 📌 Objective
-To develop an interactive dashboard to overcome challenges in traditional analytics and provide real-time insights into manufacturing and sales performance.
+To design an interactive dashboard to track production performance, analyze rejection rates, and improve operational efficiency through data-driven insights.
 
 ---
 
 ## 💼 Business Problem
-Traditional reporting at Axon Labels relied heavily on manual Excel processes, leading to delays, errors, and lack of real-time visibility into production, cost, and operational metrics. The business required a centralized dashboard for efficient monitoring and decision-making.
+The manufacturing business required a centralized dashboard to monitor production, rejection rates, and operational efficiency. Lack of visibility into machine-level and employee-level performance made it difficult to identify inefficiencies and control wastage.
 
 ---
 
@@ -20,18 +20,20 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 ---
 
 ## 📌 Key Metrics (KPIs)
-- Total Manufactured Quantity
-- Total Rejeted Quantity
-- Total Produced Quantity
-- Total Wastage %
+- Produced Quantity  
+- Manufactured Quantity  
+- Rejected Quantity  
+- Wastage Percentage  
+- Employee Performance  
+- Machine-wise Production  
   
 ---
 
 ## 🔄 Project Workflow
-- Analyzed business challenges and defined KPI requirements  
-- Utilized pre-cleaned data to design dashboards in Excel and Tableau  
-- Developed interactive visualizations for performance tracking  
-- Delivered insights to address operational inefficiencies  
+- Analyzed business requirements related to production and quality metrics  
+- Designed dashboards using Excel and Tableau  
+- Visualized production, rejection, and efficiency metrics  
+- Derived insights to identify inefficiencies and improvement areas  
 
 ---
 
