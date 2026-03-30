@@ -54,10 +54,10 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 ---
 
 ## 💼 Business Impact
-- Reduced dependency on manual reporting processes  
-- Improved visibility into production and cost metrics  
-- Enabled faster and data-driven decision-making  
-- Provided a centralized view of key business KPIs  
+- Identified high-rejection machines to improve operational efficiency  
+- Enabled monitoring of employee-level performance for quality control  
+- Improved visibility into production and wastage metrics  
+- Supported data-driven decisions to reduce rejection rates and optimize processes  
 
 ---
 
