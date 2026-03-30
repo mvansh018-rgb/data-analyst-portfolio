@@ -61,4 +61,7 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 ---
 
 ## 📸 Dashboard Preview
-(Add your Excel & Tableau screenshots here)
+
+### Excel Dashboard
+[Excel Dashboard]<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/2db7517f-85cb-4097-a34a-88b25162d901" />
+
