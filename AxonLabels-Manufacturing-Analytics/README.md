@@ -40,7 +40,7 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 - Designed user-friendly visuals for tracking performance and trends  
 
 ### 🔗 Live Dashboard
-- Tableau Dashboard: (your link)
+- Tableau Dashboard: https://public.tableau.com/app/profile/vansh.mittal8700/viz/AxonLabelManufacturinganalysisDashboard/Dashboard1
 
 ---
 
