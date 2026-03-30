@@ -1,4 +1,4 @@
-## 📌 Objective
+<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/f36522b8-e1b8-4cf7-9bbe-c5ae577b9ee8" />## 📌 Objective
 To develop an interactive dashboard to overcome challenges in traditional analytics and provide real-time insights into manufacturing and sales performance.
 
 ---
@@ -64,4 +64,9 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ### Excel Dashboard
 [Excel Dashboard]<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/2db7517f-85cb-4097-a34a-88b25162d901" />
+
+### Tableau Dashboard
+[Tableau Dashboard]<img width="1184" height="834" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/f9825605-dbba-4210-9507-3dd975624076" />
+
+
 
