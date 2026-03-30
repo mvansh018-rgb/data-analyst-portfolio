@@ -1,4 +1,4 @@
-📌 Objective
+## 📌 Objective
 To develop an interactive dashboard to overcome challenges in traditional analytics and provide real-time insights into manufacturing and sales performance.
 
 ---
