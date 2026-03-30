@@ -1,4 +1,4 @@
-<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/f36522b8-e1b8-4cf7-9bbe-c5ae577b9ee8" />## 📌 Objective
+📌 Objective
 To develop an interactive dashboard to overcome challenges in traditional analytics and provide real-time insights into manufacturing and sales performance.
 
 ---
