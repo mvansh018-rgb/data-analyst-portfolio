@@ -57,7 +57,7 @@ Key Analysis:
 
 ## Project link
 [View Full Project](./AdventureWorks-Sales-Analysis)
-[View Full Project]
+
 ---
 
 ## Contact
