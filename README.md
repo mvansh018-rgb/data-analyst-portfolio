@@ -58,7 +58,7 @@ Key Analysis:
 ## Project link
 
 - [AdventureWorks Sales Analysis](./AdventureWorks-Sales-Analysis)
-- [Manufacturing Analytics Dashboard – Axon Labels](./AxonLabels-Manufacturing-Analysis)
+- [Manufacturing Analytics Dashboard – Axon Labels](./AxonLabels-Manufacturing-Analytics)
 
 ---
 
