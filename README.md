@@ -64,7 +64,5 @@ Key Analysis:
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/vansh-mittal-1b04283b6
-
-
+LinkedIn: www.linkedin.com/in/vansh-mittal-110828v
 GitHub: https://github.com/mvansh018-rgb
