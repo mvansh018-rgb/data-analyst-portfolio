@@ -56,7 +56,9 @@ Key Analysis:
 - Monthly and time-based production analysis  
 
 ## Project link
-[View Full Project](./AdventureWorks-Sales-Analysis)
+
+- [AdventureWorks Sales Analysis](./AdventureWorks-Sales-Analysis)
+- [Manufacturing Analytics Dashboard – Axon Labels](./AxonLabels-Manufacturing-Analysis)
 
 ---
 
