@@ -36,9 +36,28 @@ Key Analysis:
 - Regional sales comparison
 - Quarterly and yearly performance analysis
 
+### Axon Labels Manufacturing Analysis
+
+This project analyzes manufacturing data from Axon Labels to monitor production, rejection, and wastage trends, enabling improved operational efficiency through SQL analysis and interactive dashboards.
+
+Tools Used:
+
+- Excel
+- SQL
+- Power BI
+- Tableau
+
+Key Analysis:
+
+- Production and manufacturing performance analysis  
+- Rejection and wastage trend analysis  
+- Machine-wise efficiency analysis  
+- Employee performance evaluation  
+- Monthly and time-based production analysis  
+
 ## Project link
 [View Full Project](./AdventureWorks-Sales-Analysis)
-
+[View Full Project]
 ---
 
 ## Contact
