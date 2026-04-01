@@ -39,8 +39,9 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ## SQL Analysis
 
-SQL was used to extract insights from the Axonlabel Manufacturing dataset by performing aggregations, joins, and filtering operations.
+SQL was used toSQL was used to extract insights from the AdventureWorks dataset by performing aggregations, joins, and filtering operations.
 
+Total Manufactured Quantity-
 
 
 
