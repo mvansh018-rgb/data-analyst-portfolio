@@ -90,7 +90,7 @@ SQL was used toSQL was used to extract insights from the AdventureWorks dataset 
 ## 📸 Dashboard Preview
 
 ### Excel Dashboard
-<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/3bb8c885-e111-40a2-90d3-e3e417679fb3" />
+<img width="1081" height="616" alt="Screenshot 2026-04-01 at 23 57 17" src="https://github.com/user-attachments/assets/3e4b6eb6-cc64-4517-bd3d-b9ca2b90466e" />
 
 ### Tableau Dashboard
 <img width="1185" height="836" alt="Tableau" src="https://github.com/user-attachments/assets/20904ec3-af0b-4628-9c04-7abfa4a211b2" />
