@@ -17,6 +17,7 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 - Excel  
 - Tableau
 - SQL
+- Power BI
 
 ---
 
@@ -32,7 +33,7 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ## 🔄 Project Workflow
 - Analyzed business requirements related to production and quality metrics  
-- Designed dashboards using Excel and Tableau
+- Designed dashboards using Excel, Power BI and Tableau
 - Performed data analysis using SQL to extract insights
 - Visualized production, rejection, and efficiency metrics  
 - Derived insights to identify inefficiencies and improvement areas  
@@ -60,11 +61,12 @@ SQL was used toSQL was used to extract insights from the AdventureWorks dataset 
 ---    
 
 ## 📊 Dashboard & Visualization
-- Developed dashboards using Excel and Tableau to monitor key manufacturing and sales metrics  
+- Developed dashboards using Excel, Power BI and Tableau to monitor key manufacturing and sales metrics  
 - Designed user-friendly visuals for tracking performance and trends  
 
 ### 🔗 Live Dashboard
 - Tableau Dashboard: https://public.tableau.com/app/profile/vansh.mittal8700/viz/AxonLabelManufacturinganalysisDashboard/Dashboard1
+- Power Bi Dashboard: https://app.powerbi.com/groups/me/reports/2ffa9bee-27c3-48f3-bff4-4455c0eaa5cb/6eacd8633011e1bf3d23?experience=power-bi
 
 ---
 
@@ -88,10 +90,13 @@ SQL was used toSQL was used to extract insights from the AdventureWorks dataset 
 ## 📸 Dashboard Preview
 
 ### Excel Dashboard
-<img width="1082" height="617" alt="EXCEL-DASHBOARD" src="https://github.com/user-attachments/assets/f6237692-2c8f-4f14-a6d4-a5078e1a6d9c" />
+<img width="1081" height="618" alt="Excel-Dashboard" src="https://github.com/user-attachments/assets/3bb8c885-e111-40a2-90d3-e3e417679fb3" />
 
 ### Tableau Dashboard
-<img width="1184" height="834" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/f9825605-dbba-4210-9507-3dd975624076" />
+<img width="1185" height="836" alt="Tableau" src="https://github.com/user-attachments/assets/20904ec3-af0b-4628-9c04-7abfa4a211b2" />
+
+### Power BI Dashboard
+<img width="1286" height="720" alt="Powerbi" src="https://github.com/user-attachments/assets/abd946b5-8a7a-4df1-a388-9171d724f843" />
 
 
 
