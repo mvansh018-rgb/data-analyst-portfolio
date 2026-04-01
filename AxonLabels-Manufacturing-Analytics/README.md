@@ -31,7 +31,8 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ## 🔄 Project Workflow
 - Analyzed business requirements related to production and quality metrics  
-- Designed dashboards using Excel and Tableau  
+- Designed dashboards using Excel and Tableau
+- Performed data analysis using SQL to extract insights
 - Visualized production, rejection, and efficiency metrics  
 - Derived insights to identify inefficiencies and improvement areas  
 
