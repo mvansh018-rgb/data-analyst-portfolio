@@ -65,9 +65,8 @@ SQL was used toSQL was used to extract insights from the AdventureWorks dataset 
 - Designed user-friendly visuals for tracking performance and trends  
 
 ### 🔗 Live Dashboard
-- Tableau Dashboard: https://public.tableau.com/app/profile/vansh.mittal8700/viz/AxonLabelManufacturinganalysisDashboard/Dashboard1
-- Power Bi Dashboard
-  : https://app.powerbi.com/groups/me/reports/2ffa9bee-27c3-48f3-bff4-4455c0eaa5cb/6eacd8633011e1bf3d23?experience=power-bi
+- Tableau Dashboard : https://public.tableau.com/app/profile/vansh.mittal8700/viz/AxonLabelManufacturinganalysisDashboard/Dashboard1
+- Power Bi Dashboard : https://app.powerbi.com/groups/me/reports/2ffa9bee-27c3-48f3-bff4-4455c0eaa5cb/6eacd8633011e1bf3d23?experience=power-bi
 
 ---
 
