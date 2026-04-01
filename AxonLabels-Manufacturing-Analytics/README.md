@@ -39,6 +39,11 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ## SQL Analysis
 
+SQL was used to extract insights from the Axonlabel Manufacturing dataset by performing aggregations, joins, and filtering operations.
+
+
+
+
 ## 📊 Dashboard & Visualization
 - Developed dashboards using Excel and Tableau to monitor key manufacturing and sales metrics  
 - Designed user-friendly visuals for tracking performance and trends  
