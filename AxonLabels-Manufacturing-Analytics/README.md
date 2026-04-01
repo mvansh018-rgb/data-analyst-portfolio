@@ -15,7 +15,8 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ## 🛠 Tools Used
 - Excel  
-- Tableau  
+- Tableau
+- SQL
 
 ---
 
