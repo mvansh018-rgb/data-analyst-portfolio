@@ -41,7 +41,8 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 SQL was used toSQL was used to extract insights from the AdventureWorks dataset by performing aggregations, joins, and filtering operations.
 
-Total Manufactured Quantity-
+1. Total Manufactured Quantity-
+   SELECT
 
 
 
