@@ -37,6 +37,8 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 
 ---
 
+## SQL Analysis
+
 ## 📊 Dashboard & Visualization
 - Developed dashboards using Excel and Tableau to monitor key manufacturing and sales metrics  
 - Designed user-friendly visuals for tracking performance and trends  
