@@ -42,9 +42,20 @@ Pre-cleaned manufacturing dataset containing production, sales, cost, and operat
 SQL was used toSQL was used to extract insights from the AdventureWorks dataset by performing aggregations, joins, and filtering operations.
 
 1. Total Manufactured Quantity-
-   SELECT
+   SELECT CONCAT(ROUND(SUM(todayManufacturedqty)/1000000,2), 'M') AS TotalManufacturedqty
+   FROM MannufacturedData;
 
+ 2. Total Wastage %-
+    SELECT CONCAT(ROUND(SUM(RejectedQty) * 100.0/ SUM(todayManufacturedqty), 2), '%') AS TotalWastage%
+    FROM ManufacturedData;
+    
+ 3. Employee Wise Rejected Quantity-
+    Select EmpName, Concat(Round(Sum(RejectedQty)/1000, 2), 'K') AS TotalRejectedQty
+    FROM ManufacturedData
+    GROUP BY EmpName
+    ORDER BY SUM(RejectedQty) DESC;
 
+---    
 
 ## 📊 Dashboard & Visualization
 - Developed dashboards using Excel and Tableau to monitor key manufacturing and sales metrics  
